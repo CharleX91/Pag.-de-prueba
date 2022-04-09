@@ -13,6 +13,7 @@ body{
     margin-top: 5%;
     color: rgb(253, 253, 253);
     font-family: 'Century Gothic',sans-serif;
+    display: table;
   }
   .box-img{
     border-radius: 50%;
@@ -24,11 +25,13 @@ body{
     letter-spacing: 4px;
     font-weight: 100;
   }
-  .box h5{
-    font-size: 20px;
+  
+  .box h2{
+    font-size: 25px;
     letter-spacing: 3px;
     font-weight: 100;
   }
+
   .box p{
     text-align: justify;
   }
